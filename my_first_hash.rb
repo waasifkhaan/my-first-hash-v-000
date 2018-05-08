@@ -8,7 +8,7 @@ def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
   # fill that hash with key/value pairs that describe the following information: 
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
-  the_manifest = {"whale_bones_corsets"=>"5","porcelain_vases"=>"2","oil_paintings"=>"3"}
+  the_manifest = {"whale bones corsets"=>"5","porcelain vases"=>"2","oil paintings"=>"3"}
 end
 
 def retrieval
